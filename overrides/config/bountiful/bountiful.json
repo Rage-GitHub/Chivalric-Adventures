@@ -1,6 +1,6 @@
 {
     "boardUpdateFrequency": 45,
-    "boardGenFrequency": 2,
+    "boardGenFrequency": 1,
     "flatBonusTimePerBounty": 0,
     "shouldBountiesHaveTimersAndExpire": true,
     "dataPackExclusions": [

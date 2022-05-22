@@ -14,7 +14,7 @@
 		// The minimum emerald price to buy back a stack
 		// default: 32
 		// 	Must be inclusively between 1 and 64
-		min-price: 32
+		min-price: 26
 		// The maximum emerald price to buy back a stack
 		// default: 64
 		// 	Must be inclusively between 1 and 64

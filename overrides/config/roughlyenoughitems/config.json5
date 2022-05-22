@@ -10,11 +10,13 @@
 			"{data:{Count:1b,id:\"minecraft:dead_bubble_coral_fan\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:rotten_flesh\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:red_sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:coal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mcda:guards_armor_helmet\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
-		"cheating": true,
-		"favoritesEnabled": true,
+		"cheating": "WHEN_CREATIVE",
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
@@ -137,7 +139,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "ORIGINAL",
+		"recipeScreenType": "COMPOSITE",
 		// Declares the appearance of REI windows.
 		"theme": "DARK",
 		"layout": {
@@ -146,14 +148,14 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": false
+			"enableCraftableOnlyButton": true
 		},
 		// Declares the appearance of recipe's border.
-		"recipeBorder": "DEFAULT",
+		"recipeBorder": "LIGHTER",
 		// Declares whether entry panel is scrolled.
-		"scrollingEntryListWidget": true,
-		"horizontalEntriesBoundaries": 1.0,
-		"verticalEntriesBoundaries": 1.0,
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 0.8,
+		"verticalEntriesBoundaries": 0.8,
 		"horizontalEntriesBoundariesColumns": 20,
 		"verticalEntriesBoundariesRows": 800,
 		"favoritesHorizontalEntriesBoundaries": 1.0,

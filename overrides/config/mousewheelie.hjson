@@ -27,7 +27,7 @@
 	scrolling: {
 		// Enables scrolling of stacks
 		// default: true
-		enable: true
+		enable: false
 		// Invert the scroll direction when scrolling items
 		// default: false
 		invert: false
@@ -51,10 +51,10 @@
 		primary-sort: raw_id
 		// Sets the sort mode for sorting whilst pressing shift.
 		// default: quantity
-		shift-sort: quantity
+		shift-sort: alphabet
 		// Sets the sort mode for sorting whilst pressing control.
 		// default: alphabet
-		control-sort: alphabet
+		control-sort: quantity
 	}
 	// Configure refill related stuff here.
 	refill: {
@@ -83,13 +83,13 @@
 			itemgroup: false
 			// Try to find similar items through the item type hierarchy
 			// default: false
-			item-hierarchy: false
+			item-hierarchy: true
 			// Try to find similar block items through the block type hierarchy
 			// default: false
-			block-hierarchy: false
+			block-hierarchy: true
 			// Try to find other food items
 			// default: false
-			food: false
+			food: true
 			// Try to find equal items (no nbt matching)
 			// default: true
 			equal-items: true

@@ -7,7 +7,7 @@
   "EnchantmentPrecision": true,
   "EnchantmentSpeed": true,
   "CompostableRottenFlesh": true,
-  "GlowStick": true,
+  "GlowStick": false,
   "PoweredRailsCopperRecipe": true,
   "ChickenNugget": true,
   "MysteriousBundle": true,

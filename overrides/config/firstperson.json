@@ -6,5 +6,5 @@
   "vanillaHands": false,
   "doubleHands": false,
   "hideCosmeticsButton": false,
-  "forceActive": false
+  "forceActive": true
 }

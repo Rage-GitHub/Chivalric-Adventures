@@ -732,6 +732,22 @@
     "byg:rainbow_eucalyptus_sapling": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "wilderworld:wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderworld:aspen_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderworld:aspen_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderworld:wisteria_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
