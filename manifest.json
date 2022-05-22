@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "[Dev] Chivalric Adventures",
+  "name": "[Client] Chivalric Adventures",
   "version": "1.1.0",
   "author": "",
   "files": [
@@ -762,11 +762,6 @@
     {
       "projectID": 248787,
       "fileID": 3626708,
-      "required": true
-    },
-    {
-      "projectID": 419697,
-      "fileID": 3782809,
       "required": true
     },
     {
