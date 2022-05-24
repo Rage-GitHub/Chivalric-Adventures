@@ -11,9 +11,14 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "[Client] Chivalric Adventures",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "",
   "files": [
+    {
+      "projectID": 594254,
+      "fileID": 3724191,
+      "required": true
+    },
     {
       "projectID": 348521,
       "fileID": 3782775,
@@ -220,11 +225,6 @@
       "required": true
     },
     {
-      "projectID": 571035,
-      "fileID": 3646389,
-      "required": true
-    },
-    {
       "projectID": 397903,
       "fileID": 3567467,
       "required": true
@@ -277,6 +277,11 @@
     {
       "projectID": 413596,
       "fileID": 3680606,
+      "required": true
+    },
+    {
+      "projectID": 391257,
+      "fileID": 3736513,
       "required": true
     },
     {
@@ -345,8 +350,18 @@
       "required": true
     },
     {
+      "projectID": 547694,
+      "fileID": 3630248,
+      "required": true
+    },
+    {
       "projectID": 433760,
       "fileID": 3739671,
+      "required": true
+    },
+    {
+      "projectID": 544350,
+      "fileID": 3717723,
       "required": true
     },
     {
@@ -410,11 +425,6 @@
       "required": true
     },
     {
-      "projectID": 325471,
-      "fileID": 3669311,
-      "required": true
-    },
-    {
       "projectID": 391378,
       "fileID": 3669458,
       "required": true
@@ -472,6 +482,11 @@
     {
       "projectID": 446173,
       "fileID": 3728272,
+      "required": true
+    },
+    {
+      "projectID": 535541,
+      "fileID": 3654662,
       "required": true
     },
     {
@@ -550,6 +565,11 @@
       "required": true
     },
     {
+      "projectID": 581435,
+      "fileID": 3759377,
+      "required": true
+    },
+    {
       "projectID": 525586,
       "fileID": 3659526,
       "required": true
@@ -572,6 +592,11 @@
     {
       "projectID": 521126,
       "fileID": 3651034,
+      "required": true
+    },
+    {
+      "projectID": 311131,
+      "fileID": 3567457,
       "required": true
     },
     {
@@ -652,6 +677,11 @@
     {
       "projectID": 551364,
       "fileID": 3662915,
+      "required": true
+    },
+    {
+      "projectID": 373774,
+      "fileID": 3668131,
       "required": true
     },
     {
@@ -766,7 +796,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3782870,
+      "fileID": 3801565,
       "required": true
     },
     {
@@ -812,6 +842,11 @@
     {
       "projectID": 380649,
       "fileID": 3637448,
+      "required": true
+    },
+    {
+      "projectID": 568316,
+      "fileID": 3639383,
       "required": true
     },
     {
@@ -950,6 +985,11 @@
       "required": true
     },
     {
+      "projectID": 615351,
+      "fileID": 3770372,
+      "required": true
+    },
+    {
       "projectID": 317121,
       "fileID": 3612123,
       "required": true
@@ -957,6 +997,11 @@
     {
       "projectID": 526011,
       "fileID": 3600139,
+      "required": true
+    },
+    {
+      "projectID": 532730,
+      "fileID": 3597889,
       "required": true
     },
     {
@@ -987,6 +1032,11 @@
     {
       "projectID": 517119,
       "fileID": 3575314,
+      "required": true
+    },
+    {
+      "projectID": 521594,
+      "fileID": 3743876,
       "required": true
     }
   ],
