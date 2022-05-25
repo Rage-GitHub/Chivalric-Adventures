@@ -1,6 +1,6 @@
 {
 	// Disables trinket support for apples
-	"appleTrinket": true,
+	"appleTrinket": false,
 	// How much faster the wax gland should make you
 	"waxGlandMultiplier": 10.0,
 	// The base durability of the infernal scepter
@@ -10,7 +10,7 @@
 	// Globally disables Things trinket rendering
 	"renderTrinkets": true,
 	// Only disables trinket rendering for apples
-	"renderAppleTrinket": true,
+	"renderAppleTrinket": false,
 	// How many ender pearls the displacement tome uses per teleport
 	"displacementTomeFuelConsumption": 1,
 	// How much walking speed the socks should add per level, base is 0.1, default is 0.02
