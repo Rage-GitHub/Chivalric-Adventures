@@ -1,0 +1,114 @@
+{
+  "End Gate": {
+    "Size": 20,
+    "Is Enabled": true,
+    "Whitelisted Biome Categories": [
+      "plains",
+      "jungle",
+      "taiga",
+      "forest",
+      "plains",
+      "extreme_hills",
+      "mesa",
+      "savanna",
+      "icy",
+      "desert",
+      "swamp",
+      "mushroom",
+      "none"
+    ],
+    "Blacklisted Biomes": [
+      "minecraft:ocean",
+      "minecraft:deep_ocean"
+    ],
+    "Average Distance Between Structures": 85,
+    "Minimum Spawn Distance": 130,
+    "Generation Height": 15,
+    "Terraforming Enabled": false
+  },
+  "End Castle": {
+    "Is Enabled": true,
+    "Whitelisted Biome Categories": [
+      "jungle",
+      "taiga",
+      "forest",
+      "none",
+      "plains",
+      "icy"
+    ],
+    "Blacklisted Biomes": [
+      "minecraft:bamboo_jungle_hills",
+      "minecraft:birch_forest_hills",
+      "minecraft:dark_forest_hills",
+      "minecraft:giant_spruce_taiga_hills",
+      "minecraft:giant_tree_taiga_hills",
+      "minecraft:gravelly_mountains",
+      "minecraft:jungle_edge",
+      "minecraft:jungle_hills",
+      "minecraft:modified_gravelly_mountains",
+      "minecraft:modified_jungle_edge",
+      "minecraft:mountain_edge",
+      "minecraft:mountains",
+      "minecraft:snowy_mountains",
+      "minecraft:snowy_taiga_hills",
+      "minecraft:snowy_taiga_mountains",
+      "minecraft:taiga_hills",
+      "minecraft:taiga_mountains",
+      "minecraft:tall_birch_hills",
+      "minecraft:wooded_hills",
+      "minecraft:wooded_mountains",
+      "minecraft:savanna_plateau",
+      "minecraft:shattered_savanna_plateau"
+    ],
+    "Average Distance Between Structures": 100,
+    "Minimum Spawn Distance": 188,
+    "Generation Height": 0,
+    "Terraforming Enabled": true
+  },
+  "Ancient Witch Hut": {
+    "Is Enabled": true,
+    "Whitelisted Biome Categories": [
+      "swamp"
+    ],
+    "Blacklisted Biomes": [],
+    "Average Distance Between Structures": 25,
+    "Minimum Spawn Distance": 0,
+    "Generation Height": -3,
+    "Terraforming Enabled": false
+  },
+  "Whitelisted Dimensions": [
+    "minecraft:overworld"
+  ],
+  "Difficulty of Monsters Inside Structures [peaceful, easy, normal, hard or hardcore]": "normal",
+  "End Remastered Eyes": {
+    "Break Probability (decimal form)": 0.0,
+    "Located Structures": [
+      "endrem:end_gate"
+    ]
+  },
+  "Vanilla Eyes Can Be Used": false,
+  "Vanilla Strongholds Are Enabled": false,
+  "End Remastered Map": {
+    "Located Structures": [
+      "endrem:end_castle"
+    ],
+    "Minimum Price in Emeralds": 30,
+    "Maximum Price in Emeralds": 40,
+    "XP Received on Purchase": 12
+  },
+  "End Crystal Gear": {
+    "End Crystal Armor": {
+      "Durability Factor": 33.0,
+      "Defense Factor": 1.0,
+      "Toughness": 2.0,
+      "Knockback Resistance": 0.1,
+      "Neutralizes Piglins": true,
+      "Regen Duration (Ticks)": 20
+    },
+    "End Crystal Tools": {
+      "Durability": 1325,
+      "Speed": 10.0,
+      "Attack Damage Bonus": 3.0
+    }
+  }
+}

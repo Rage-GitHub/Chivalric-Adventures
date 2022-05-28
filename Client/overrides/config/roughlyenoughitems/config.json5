@@ -13,7 +13,9 @@
 			"{data:{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:coal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"mcda:guards_armor_helmet\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:cactus\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:cactus\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:weathered_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:flower_pot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": "WHEN_CREATIVE",
@@ -62,7 +64,7 @@
 		},
 		// Declares whether REI is visible.
 		"overlayVisible": true,
-		"cheatingStyle": "GRAB",
+		"cheatingStyle": "GIVE",
 		"motion": {
 			"favoritesAnimation": true
 		}
@@ -136,7 +138,7 @@
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
-			"cachingFastEntryRendering": false
+			"cachingFastEntryRendering": true
 		}
 	},
 	"appearance": {
@@ -154,7 +156,7 @@
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "LIGHTER",
 		// Declares whether entry panel is scrolled.
-		"scrollingEntryListWidget": false,
+		"scrollingEntryListWidget": true,
 		"horizontalEntriesBoundaries": 0.8,
 		"verticalEntriesBoundaries": 0.8,
 		"horizontalEntriesBoundariesColumns": 20,

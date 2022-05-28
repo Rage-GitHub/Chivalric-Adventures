@@ -1,0 +1,28 @@
+{
+	"MiscConfig": {
+		"generateStructuresInFlatWorlds": false
+	},
+	"PiglinOutpostConfig": {
+		"spawnPiglinOutpost": true,
+		"piglinOutpostAverageChunkDistance": 20,
+		"piglinOutpostMinChunkDistance": 10
+	},
+	"TempleDungeonConfig": {
+		"spawnTempleDungeon": true,
+		"templeDungeonAverageChunkDistance": 20,
+		"templeDungeonMinChunkDistance": 15
+	},
+	"TraderCampConfig": {
+		"spawnTraderCamp": true,
+		"traderCampAverageChunkDistance": 30,
+		"traderCampMinChunkDistance": 20
+	},
+	"OceanVillageConfig": {
+		"spawnOceanVillage": false,
+		"oceanVillageAverageChunkDistance": 52,
+		"oceanVillageMinChunkDistance": 40
+	},
+	"IstAdrianDummConfig": {
+		"istAdrianDumm": true
+	}
+}

@@ -1,14 +1,14 @@
 {
 	// in Blocks
-	"increasingDistance": 300,
+	"increasingDistance": 500,
 	// 0.1 = 10%
-	"distanceFactor": 0.1,
+	"distanceFactor": 0.05,
 	// in minutes
 	"increasingTime": 60,
 	// 0.05 = 5%
-	"timeFactor": 0.05,
+	"timeFactor": 0.02,
 	// in Blocks
-	"heightDistance": 30,
+	"heightDistance": 40,
 	// 0.1 = 10%
 	"heightFactor": 0.1,
 	// 2.0 = 200% = double

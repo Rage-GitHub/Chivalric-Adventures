@@ -1,0 +1,37 @@
+{
+  "gameplay": {
+    "maxBonusLevels": 5,
+    "cowlCurseLevels": 5,
+    "cursedStew": true,
+    "boilSecondsPerLevel": 120,
+    "maxPortions": 64,
+    "itemPositiveEffects": true,
+    "itemMinPositiveBonusLevel": 5,
+    "itemNegativeEffects": true,
+    "itemMinNegativeCurseLevel": 2,
+    "maxStewNameLength": 32,
+    "cappedNauseaDuration": true,
+    "baseNauseaDuration": 5,
+    "maxNauseaDuration": 25,
+    "cappedPositiveDuration": true,
+    "basePositiveDuration": 5,
+    "maxPositiveDuration": 25,
+    "minSatisfyingLevel": 1,
+    "minFillingLevel": 3,
+    "minHeartyLevel": 5
+  },
+  "sound": {
+    "boilSoundChance": 100,
+    "bubbleSoundChance": 100,
+    "useBoilSound": true,
+    "useBubbleSound": true,
+    "soundEffectVolume": 0.3
+  },
+  "graphics": {
+    "boilParticleChance": 50,
+    "bubbleParticleChance": 50,
+    "useBoilParticles": true,
+    "useBubbleParticles": true,
+    "animateBoilingLid": true
+  }
+}
