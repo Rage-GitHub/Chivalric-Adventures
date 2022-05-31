@@ -1,0 +1,58 @@
+{
+  "servers": {
+    "127.0.0.1": {
+      "distance": 24,
+      "priorityDistance": 48
+    }
+  },
+  "playerVolumes": {},
+  "whitelist": false,
+  "voiceVolume": 1.0,
+  "priorityVolume": 1.0,
+  "occlusion": false,
+  "speakerMuted": false,
+  "showIcons": 0,
+  "micIconPosition": "TOP_CENTER",
+  "voiceActivation": false,
+  "voiceActivationThreshold": -30.0,
+  "microphoneAmplification": 1.0,
+  "microphone": "OpenAL Soft on Microphone (4- Fifine Microphone)",
+  "rnNoise": false,
+  "microphoneMuted": false,
+  "javaxCapture": false,
+  "hrtf": false,
+  "directionalSources": false,
+  "directionalSourcesAngle": 145,
+  "compressor": true,
+  "compressorThreshold": -10,
+  "limiterThreshold": -6,
+  "visualizeDistance": true,
+  "keyBindings": {
+    "pushToTalk": [
+      {
+        "type": "KEYSYM",
+        "code": 342
+      }
+    ],
+    "priorityPushToTalk": [],
+    "muteMicrophone": [
+      {
+        "type": "KEYSYM",
+        "code": 46
+      }
+    ],
+    "muteChat": [],
+    "action": [
+      {
+        "type": "MOUSE",
+        "code": 1
+      }
+    ],
+    "increaseDistance": [],
+    "decreaseDistance": [],
+    "occlusion": []
+  },
+  "showPriorityVolume": true,
+  "micReverb": true,
+  "micReverbVolume": 1.0
+}

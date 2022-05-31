@@ -2,15 +2,15 @@
 	// in Blocks
 	"increasingDistance": 500,
 	// 0.1 = 10%
-	"distanceFactor": 0.05,
+	"distanceFactor": 0.08,
 	// in minutes
-	"increasingTime": 60,
+	"increasingTime": 120,
 	// 0.05 = 5%
-	"timeFactor": 0.02,
+	"timeFactor": 0.05,
 	// in Blocks
-	"heightDistance": 40,
+	"heightDistance": 50,
 	// 0.1 = 10%
-	"heightFactor": 0.1,
+	"heightFactor": 0.08,
 	// 2.0 = 200% = double
 	"maxFactorHealth": 2.0,
 	"maxFactorDamage": 2.0,

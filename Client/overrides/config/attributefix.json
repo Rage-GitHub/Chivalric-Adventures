@@ -1,16 +1,5 @@
 {
   "attributes": {
-    "playerex:ranged_crit_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -22,227 +11,18 @@
         "value": 10000000
       }
     },
-    "arcanus:mana_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "requiem:soul_offense": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "playerex:ranged_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 10000000
-      }
-    },
-    "playerex:melee_crit_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "playerex:heal_amplification": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.luck": {
-      "enabled": true,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "creeperoverhaul:reach_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "playerex:lightning_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "arcanus:burnout_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "additionalentityattributes:lava_visibility": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "playerex:luckiness": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 10000000
-      }
-    },
-    "playerex:strength": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 10000000
-      }
-    },
-    "stepheightentityattribute:stepheight": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "arcanus:mana_lock": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 10000000
-      }
-    },
-    "playerex:ranged_crit_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "playerex:lifesteal": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.attack_knockback": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 5,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.armor_toughness": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 10000000
-      }
-    },
-    "reach-entity-attributes:attack_range": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
     "additionalentityattributes:water_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "arcanus:mana_regen": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -261,28 +41,6 @@
       },
       "max": {
         "default": 1024,
-        "value": 10000000
-      }
-    },
-    "playerex:poison_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "playerex:evasion": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
         "value": 10000000
       }
     },
@@ -308,17 +66,6 @@
         "value": 10000000
       }
     },
-    "playerex:intelligence": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 10000000
-      }
-    },
     "minecraft:generic.attack_speed": {
       "enabled": true,
       "min": {
@@ -341,14 +88,25 @@
         "value": 10000000
       }
     },
-    "playerex:breaking_speed": {
+    "minecraft:generic.luck": {
+      "enabled": true,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "tiered:generic.durable": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2147483647,
+        "default": 1,
         "value": 10000000
       }
     },
@@ -363,22 +121,33 @@
         "value": 10000000
       }
     },
-    "playerex:level": {
+    "additionalentityattributes:critical_bonus_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "tiered:generic.range_attack_damage": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2147483647,
+        "default": 2048,
         "value": 10000000
       }
     },
-    "additionalentityattributes:critical_bonus_damage": {
+    "creeperoverhaul:reach_distance": {
       "enabled": false,
       "min": {
-        "default": -1,
-        "value": -1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1024,
@@ -396,14 +165,14 @@
         "value": 10000000
       }
     },
-    "playerex:health_regeneration": {
+    "arcanus:burnout_regen": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
+        "default": 1024,
         "value": 10000000
       }
     },
@@ -418,25 +187,14 @@
         "value": 10000000
       }
     },
-    "playerex:freeze_resistance": {
+    "additionalentityattributes:lava_visibility": {
       "enabled": false,
       "min": {
-        "default": -1,
-        "value": -1
+        "default": 0,
+        "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 10000000
-      }
-    },
-    "playerex:wither_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1,
+        "default": 1024,
         "value": 10000000
       }
     },
@@ -451,14 +209,14 @@
         "value": 10000000
       }
     },
-    "playerex:dexterity": {
+    "stepheightentityattribute:stepheight": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -1024,
+        "value": -1024
       },
       "max": {
-        "default": 2147483647,
+        "default": 1024,
         "value": 10000000
       }
     },
@@ -473,6 +231,17 @@
         "value": 10000000
       }
     },
+    "arcanus:mana_lock": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 10000000
+      }
+    },
     "additionalentityattributes:lava_speed": {
       "enabled": false,
       "min": {
@@ -484,25 +253,25 @@
         "value": 10000000
       }
     },
-    "playerex:fire_resistance": {
+    "tiered:generic.crit_chance": {
       "enabled": false,
       "min": {
-        "default": -1,
-        "value": -1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1,
         "value": 10000000
       }
     },
-    "requiem:soul_defense": {
-      "enabled": false,
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
       "min": {
-        "default": -1024,
-        "value": -1024
+        "default": 0,
+        "value": 0
       },
       "max": {
-        "default": 1024,
+        "default": 1,
         "value": 10000000
       }
     },
@@ -517,6 +286,17 @@
         "value": 10000000
       }
     },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 10000000
+      }
+    },
     "minecraft:generic.knockback_resistance": {
       "enabled": true,
       "min": {
@@ -528,25 +308,36 @@
         "value": 10000000
       }
     },
-    "playerex:constitution": {
-      "enabled": false,
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2147483647,
+        "default": 20,
         "value": 10000000
       }
     },
-    "playerex:melee_crit_chance": {
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "tiered:generic.dig_speed": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
+        "default": 2048,
         "value": 10000000
       }
     }

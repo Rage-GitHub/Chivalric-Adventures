@@ -34,13 +34,13 @@
     "minecraft:netherite_sword"
   ],
   "enableCrawlingAnimation": true,
-  "holdUpAllItems": false,
+  "holdUpAllItems": true,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
-  "fallingAnimation": true,
+  "fallingAnimation": false,
   "freezingAnimation": true,
-  "huggingAnimation": false,
+  "huggingAnimation": true,
   "narutoRunning": false,
   "enableInWorldBookRendering": false
 }

@@ -1,0 +1,12 @@
+{
+  "version": "3.5.1",
+  "prevVersion": "3.0.2",
+  "initPopup": true,
+  "generatedBy": "\u003cdefault\u003e",
+  "hashes": {
+    "Default/keys.txt": "E70C8E42E4DEE99B42B106D6685DFF49",
+    "Default/options.txt": "F054D5FBD5FAB77ED597A82CCCD3281A"
+  },
+  "mainProfile": "Default",
+  "initially_created": "31.05.2022 12:45:15"
+}

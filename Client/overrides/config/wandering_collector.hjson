@@ -1,7 +1,7 @@
 {
 	// Include manually dropped items in the Wandering Trader offers
 	// default: false
-	include-dropped-stacks: false
+	include-dropped-stacks: true
 	// The maximum number of items that get remembered after loosing them
 	// default: 64
 	// 	Must be greater or equal to 0
@@ -9,12 +9,12 @@
 	// The number of buy-back trades Wandering Traders will offer
 	// default: 2
 	// 	Must be greater or equal to 0
-	buy-back-trades: 2
+	buy-back-trades: 4
 	default-prices: {
 		// The minimum emerald price to buy back a stack
 		// default: 32
 		// 	Must be inclusively between 1 and 64
-		min-price: 26
+		min-price: 32
 		// The maximum emerald price to buy back a stack
 		// default: 64
 		// 	Must be inclusively between 1 and 64

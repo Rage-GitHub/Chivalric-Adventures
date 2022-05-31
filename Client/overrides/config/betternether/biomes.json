@@ -3858,60 +3858,6 @@
     }
   },
   "minecraft": {
-    "nether_wastes": {
-      "spawn": {
-        "ambient": {
-          "betternether": {
-            "firefly": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 1]": 1,
-              "maxGroupSize [default: 3]": 3
-            },
-            "hydrogen_jellyfish": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 2]": 2,
-              "maxGroupSize [default: 6]": 6
-            }
-          }
-        },
-        "monster": {
-          "betternether": {
-            "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
-              "maxGroupSize [default: 5]": 5
-            }
-          }
-        }
-      }
-    },
-    "warped_forest": {
-      "spawn": {
-        "ambient": {
-          "betternether": {
-            "firefly": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 1]": 1,
-              "maxGroupSize [default: 3]": 3
-            },
-            "hydrogen_jellyfish": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 2]": 2,
-              "maxGroupSize [default: 6]": 6
-            }
-          }
-        },
-        "monster": {
-          "betternether": {
-            "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
-              "maxGroupSize [default: 5]": 5
-            }
-          }
-        }
-      }
-    },
     "crimson_forest": {
       "spawn": {
         "ambient": {
@@ -3932,6 +3878,33 @@
           "betternether": {
             "naga": {
               "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "nether_wastes": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
               "minGroupSize [default: 3]": 3,
               "maxGroupSize [default: 5]": 5
             }
@@ -3993,7 +3966,7 @@
         }
       }
     },
-    "the_void": {
+    "warped_forest": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -4022,60 +3995,6 @@
     }
   },
   "byg": {
-    "weeping_mire": {
-      "spawn": {
-        "ambient": {
-          "betternether": {
-            "firefly": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 1]": 1,
-              "maxGroupSize [default: 3]": 3
-            },
-            "hydrogen_jellyfish": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 2]": 2,
-              "maxGroupSize [default: 6]": 6
-            }
-          }
-        },
-        "monster": {
-          "betternether": {
-            "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
-              "maxGroupSize [default: 5]": 5
-            }
-          }
-        }
-      }
-    },
-    "embur_bog": {
-      "spawn": {
-        "ambient": {
-          "betternether": {
-            "firefly": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 1]": 1,
-              "maxGroupSize [default: 3]": 3
-            },
-            "hydrogen_jellyfish": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 2]": 2,
-              "maxGroupSize [default: 6]": 6
-            }
-          }
-        },
-        "monster": {
-          "betternether": {
-            "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
-              "maxGroupSize [default: 5]": 5
-            }
-          }
-        }
-      }
-    },
     "brimstone_caverns": {
       "spawn": {
         "ambient": {
@@ -4130,7 +4049,7 @@
         }
       }
     },
-    "warped_desert": {
+    "embur_bog": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -4157,7 +4076,34 @@
         }
       }
     },
-    "magma_wastes": {
+    "weeping_mire": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "warped_desert": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -4212,6 +4158,33 @@
       }
     },
     "crimson_gardens": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "magma_wastes": {
       "spawn": {
         "ambient": {
           "betternether": {
